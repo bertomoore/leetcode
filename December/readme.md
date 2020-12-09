@@ -10,4 +10,5 @@
 
 ## Week 2
 - [**Day 7**](./Week2/Spiral-Matrix.java): Generate spiral matrix of N size using Java
-- [**Day 8**](./Week2/Song-Pair-Durations-Div-by-60.cpp): Number of song pairs whose duration sum equals 60
+- [**Day 8**](./Week2/Song-Pair-Durations-Div-by-60.cpp): Number of song pairs whose duration sum equals 60 using Java
+- [**Day 9**](./Week2/Binary-Search-Tree-Iterator.py): Create `next()` and `hasNext()` functions for BSTs using Python
