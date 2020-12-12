@@ -13,4 +13,5 @@
 - [**Day 8**](./Week2/Song-Pair-Durations-Div-by-60.cpp): Number of song pairs whose duration sum equals 60 using Java
 - [**Day 9**](./Week2/Binary-Search-Tree-Iterator.py): Create `next()` and `hasNext()` functions for BSTs using Python
 - [**Day 10**](./Week2/Valid-Mountain-Array.swift): Determine if array values make a valid mountain using Swift
-- [**Day 11**](./Week2/Remove-Duplicates.js): Modify sorted array to have max 2 of each value using JavaScript
+- [**Day 11**](./Week2/Remove-Duplicates-from-Sorted-Array.js): Modify sorted array to have max 2 of each value using JavaScript
+- [**Day 12**](./Week2/Smallest-Subtree-Deepest-Nodes.rb): Find the smallest subtree with the deepest nodes in the tree using Ruby
