@@ -15,3 +15,4 @@
 - [**Day 10**](./Week2/Valid-Mountain-Array.swift): Determine if array values make a valid mountain using Swift
 - [**Day 11**](./Week2/Remove-Duplicates-from-Sorted-Array.js): Modify sorted array to have max 2 of each value using JavaScript
 - [**Day 12**](./Week2/Smallest-Subtree-Deepest-Nodes.rb): Find the smallest subtree with the deepest nodes in the tree using Ruby
+- [**Day 13**](./Week2/Burst-Balloons.cs): Find max value of `arr[n-1] * arr[n] * arr[n+1]` then removing `arr[n]` using C#
