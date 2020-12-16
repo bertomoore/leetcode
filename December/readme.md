@@ -18,4 +18,5 @@
 - [**Day 13**](./Week2/Burst-Balloons.cs): Find max value of `arr[n-1] * arr[n] * arr[n+1]` then removing `arr[n]` using C#
 
 ## Week 3
-= [**Day 15**](./Week3/Sorted-Squares.js): Sort squared numbers by value using JavaScript
+- [**Day 15**](./Week3/Sorted-Squares.js): Sort squared numbers by value using JavaScript
+- [**Day 16**](./Week3/Validate-Binary-Search-Tree.py): Validate BST using Python
