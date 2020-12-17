@@ -20,3 +20,4 @@
 ## Week 3
 - [**Day 15**](./Week3/Sorted-Squares.js): Sort squared numbers by value using JavaScript
 - [**Day 16**](./Week3/Validate-Binary-Search-Tree.py): Validate BST using Python
+- [**Day 17**](./Week3/4-Sum-II.java): Determine the number of combos such that `A[i] + B[i] + C[i] + D[i] == 0` using Java
