@@ -11,14 +11,14 @@
 ## Week 2
 - [**Day 7**](./Week2/Spiral-Matrix.java): Generate spiral matrix of N size using Java
 - [**Day 8**](./Week2/Song-Pair-Durations-Div-by-60.cpp): Number of song pairs whose duration sum equals 60 using Java
-- [**Day 9**](./Week2/Binary-Search-Tree-Iterator.py): Create `py next()` and `py hasNext()` functions for BSTs using Python
+- [**Day 9**](./Week2/Binary-Search-Tree-Iterator.py): Create `next()` and `hasNext()` functions for BSTs using Python
 - [**Day 10**](./Week2/Valid-Mountain-Array.swift): Determine if array values make a valid mountain using Swift
 - [**Day 11**](./Week2/Remove-Duplicates-from-Sorted-Array.js): Modify sorted array to have max 2 of each value using JavaScript
 - [**Day 12**](./Week2/Smallest-Subtree-Deepest-Nodes.rb): Find the smallest subtree with the deepest nodes in the tree using Ruby
-- [**Day 13**](./Week2/Burst-Balloons.cs): Find max value of `cs arr[n-1] * arr[n] * arr[n+1]` then removing `arr[n]` using C#
+- [**Day 13**](./Week2/Burst-Balloons.cs): Find max value of `arr[n-1] * arr[n] * arr[n+1]` then removing `arr[n]` using C#
 
 ## Week 3
 - [**Day 15**](./Week3/Sorted-Squares.js): Sort squared numbers by value using JavaScript
 - [**Day 16**](./Week3/Validate-Binary-Search-Tree.py): Validate BST using Python
-- [**Day 17**](./Week3/4-Sum-II.java): Determine the number of combos such that `java A[i] + B[i] + C[i] + D[i] == 0` using Java
-- [**Day 18**](./Week3/Increasing-Triplet-Subsequence.c): Check if subsequence exists such that `c arr[a] < arr[b] < arr[c]` and `c a < b < c` using C
+- [**Day 17**](./Week3/4-Sum-II.java): Determine the number of combos such that `A[i] + B[i] + C[i] + D[i] == 0` using Java
+- [**Day 18**](./Week3/Increasing-Triplet-Subsequence.c): Check if subsequence exists such that `arr[a] < arr[b] < arr[c]` and `a < b < c` using C
