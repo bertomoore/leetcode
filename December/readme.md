@@ -22,3 +22,4 @@
 - [**Day 16**](./Week3/Validate-Binary-Search-Tree.py): Validate BST using Python
 - [**Day 17**](./Week3/4-Sum-II.java): Determine the number of combos such that `A[i] + B[i] + C[i] + D[i] == 0` using Java
 - [**Day 18**](./Week3/Increasing-Triplet-Subsequence.c): Check if subsequence exists such that `arr[a] < arr[b] < arr[c]` and `a < b < c` using C
+- [**Day 19**](./Week3/Cherry-Pickup.cpp): Find the max combined value of pointers at opposite ends going down matrix using C++
